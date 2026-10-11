@@ -105,13 +105,8 @@ OceanFlow obtains the lowest errors among the compared methods on SST anomaly me
 
 If you find OceanFlow useful for your research, please cite:
 
-```bibtex
-@misc{gao2026oceanflow,
-  title={OceanFlow: Coherent Flow Matching for Probabilistic Ocean Modeling},
-  author={Yuan Gao and Fan Xu and Hao Wu and Xiaomeng Huang},
-  year={2026},
-  url={https://github.com/YuanGao-YG/OceanFlow}
-}
+```
+
 ```
 
 ## Acknowledgement
