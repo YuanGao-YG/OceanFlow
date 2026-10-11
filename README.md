@@ -16,7 +16,7 @@
 ---
 
 > **OceanFlow: Coherent Flow Matching for Probabilistic Ocean Modeling**<br>
-> [Yuan Gao](https://scholar.google.com.hk/citations?user=4JpRnU4AAAAJ)<sup>† </sup>, [Fan Xu](https://scholar.google.com.hk/citations?user=qfMSkBgAAAAJ)<sup>† </sup>, [Hao Wu](https://alexander-wu.github.io/)<sup>* </sup>,<sup>† </sup> [Xiaomeng Huang](https://scholar.google.com.hk/citations?user=yH9OkqYAAAAJ)<sup>* </sup>
+> [Yuan Gao](https://scholar.google.com.hk/citations?user=4JpRnU4AAAAJ)<sup>† </sup>, [Fan Xu](https://scholar.google.com.hk/citations?user=qfMSkBgAAAAJ)<sup>† </sup>, [Hao Wu](https://alexander-wu.github.io/)<sup>* </sup>, [Xiaomeng Huang](https://scholar.google.com.hk/citations?user=yH9OkqYAAAAJ)<sup>* </sup>
 
 > (&dagger; Equal contribution, * Corresponding author)
 
